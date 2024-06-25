@@ -1,0 +1,3 @@
+/home/serg/Documents/Algorithms/SimulCoinToss/build/CMakeFiles/MySimulation.dir
+/home/serg/Documents/Algorithms/SimulCoinToss/build/CMakeFiles/edit_cache.dir
+/home/serg/Documents/Algorithms/SimulCoinToss/build/CMakeFiles/rebuild_cache.dir
